@@ -1,2 +1,2 @@
 # EasySkills-Python
-Developer simple projects with python
+Simple and developer small projects for developing Python
